@@ -1,14 +1,8 @@
-# SQL-JOINS-TASK2_CODTECH
-🧠 Task:
-USE WINDOW FUNCTIONS, SUBQUERIES, AND CTEs (COMMON TABLE EXPRESSIONS) FOR ADVANCED DATA ANALYSIS
-Deliverable: A report generated using SQL queries showcasing trends or patterns
-
-
 # 📌 Internship Task – Advanced SQL Analysis (Window Functions, Subqueries, and CTEs)
 
 *Intern Name:* Aina Marziya  
 *Internship Organization:* CODTECH  
-*Week:* 5  
+*Task:* 2 
 *Topic:* Advanced SQL Queries for Data Trends and Patterns  
 *Tool Used:* MySQL 8.0 Command Line Client
 
@@ -100,23 +94,15 @@ employee_id	sale_month	avg_sale
 
 
 📈 Trends/Patterns Observed
-
 Employee 103 has the highest individual sale (₹9000) and average sales.
-
 Running totals help visualize employee sales progress over time.
-
 CTEs make queries cleaner when analyzing grouped data like monthly trends.
 
 
 ✅ Conclusion
-
 This project demonstrates the use of advanced SQL tools such as:
-
 Window Functions (to track trends)
-
 Subqueries (to filter high-performing records)
-
 CTEs (to structure complex queries)
 
 
-These techniques improve performance and readability in real-world SQL analytics.
