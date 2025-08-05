@@ -1,4 +1,4 @@
-# 📌 Internship Task – Advanced SQL Analysis (Window Functions, Subqueries, and CTEs)
+# 📌 Internship Task2 – Advanced SQL Analysis (Window Functions, Subqueries, and CTEs)
 
 *Intern Name:* Aina Marziya  
 *Internship Organization:* CODTECH  
